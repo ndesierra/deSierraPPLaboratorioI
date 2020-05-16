@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589590422 source:c:\users\nico\desktop\nueva carpeta (2)\desierrapplaboratorioi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1589586951 c:\users\nico\desktop\nueva carpeta (2)\desierrapplaboratorioi\datawarehouse.h
+
